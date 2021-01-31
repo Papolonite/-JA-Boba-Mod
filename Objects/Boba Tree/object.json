@@ -1,0 +1,8 @@
+{
+    "Name":"Boba",
+    "Price":"1",
+    "Description" : "It's A Boba",
+    "Category": "Fruit",
+    "Edibility" : 5,
+    "Recipe" : null
+}

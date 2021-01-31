@@ -1,0 +1,23 @@
+{
+    "Name" : "Boba Tree",
+    "Price" : 20,
+    "Product" : "Boba",
+    "SeedName" : "Boba Seeds",
+    "SeedDescription" : "Can be planted in spring, summer, fall. Takes 4 days to mature but can be harvested continuously afterwards",
+    "Type" : "Fruit",
+    "SeedSellPrice" : "5",
+    "Seasons" : ["spring","summer","fall"],
+    "Phases" : [1,2,1],
+    "RegrowthPhase" : 1,
+    "TrellisCrop" : false,
+    "HarvestWithScythe" : false,
+    "Colors": null,
+    "Bonus" : {
+        "MinimumPerHarvest" : 7,
+        "MaximumPerHarvest" : 7,
+        "MaxIncreasePerFarmLevel" : 5,
+        "ExtraChance" : 0
+    },
+    "SeedPurchasePrice" : 10,
+    "SeedPurchaseFrom" : "Pierre"
+}

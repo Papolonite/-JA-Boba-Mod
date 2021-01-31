@@ -1,0 +1,11 @@
+{
+    "Name": "Boba Tree",
+    "Author": "Papolonite",
+    "Version": "0.1.0",
+    "Description": "Added boba tree",
+    "UniqueID": "Papolonite.BobaTree",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    }
+  }
